@@ -73,7 +73,3 @@ https://github.com/itefixnet/borg4win/issues
 ## License
 
 borg4win is licensed under the BSD 2-Clause License. See LICENSE file for details.
-
----
-
-© 2002-2025 itefix.net
