@@ -59,16 +59,8 @@ borg4win is tested successfully with local and remote repositories. You should t
 
 ## Links
 
-- **borg4win homepage**: https://itefix.net/borg4win
-- **borg4win repository**: https://github.com/itefixnet/borg4win
 - **BorgBackup homepage**: https://www.borgbackup.org/
 - **BorgBackup documentation**: https://borgbackup.readthedocs.io/en/stable/
-
-## Support
-
-Support and issue tracking are handled via GitHub Issues:
-
-https://github.com/itefixnet/borg4win/issues
 
 ## License
 
