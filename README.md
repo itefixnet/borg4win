@@ -1,7 +1,7 @@
 > [!NOTE]
 > 📦 **This project is no longer actively maintained.** No new features or fixes are planned, but the repository remains available for reference.
-> 
-> # borg4win - BorgBackup for Windows
+
+ # borg4win - BorgBackup for Windows
 
 borg4win is a packaging of BorgBackup for Windows systems. It provides a self-contained Cygwin-based environment with BorgBackup, Python, OpenSSH, and required utilities already included, offering a ready-to-use command-line backup solution for Windows.
 
